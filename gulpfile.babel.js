@@ -34,7 +34,7 @@ function browsersync(done) {
         },
         rewriteRules: [
             {
-                match: /\/london2017\//g,
+                match: /\/la2018\//g,
                 fn: () => '/',
             }
         ]
