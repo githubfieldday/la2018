@@ -20,6 +20,6 @@ Attendees violating these rules will be asked to leave the event at the sole dis
 Thank you for helping to make this a welcoming, friendly space for all.
 
 ### Contact Information
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer, Wilhelm Klopp at [education@github.com](mailto:education@github.com), another GitHub employee or a security officer.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer, Catherine Chung at [cathercc@usc.edu](mailto:cathercc@usc.edu), another GitHub employee or a security officer.
 
 GitHubbers will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
